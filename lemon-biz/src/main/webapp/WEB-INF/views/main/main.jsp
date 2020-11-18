@@ -764,7 +764,7 @@
 								<script type="text/javascript"
 									src="//dapi.kakao.com/v2/maps/sdk.js?appkey=f2535f63eff9b75f863ff502185026f4"></script>
 								<script>
-// 지도 만들기 만들어만들어
+// 지도 만들기 만들어만들어 뚜시뚜시
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
 	mapOption = { 
 		center: new kakao.maps.LatLng(37.279643, 127.072610),

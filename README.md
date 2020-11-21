@@ -28,7 +28,10 @@ Lemon Biz
 * [Spring](https://spring.io/)(Spring MVC, Spring Security, Mybatis)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [AWS RDS](https://aws.amazon.com/ko/rds/)  
+* [AWS RDS](https://aws.amazon.com/ko/rds/)
+
+### 사이트주소
+* http://3.137.211.157:8080/lemonbiz
 
 ## Contributors
 
